@@ -1,0 +1,2 @@
+# M5Stack の秘密情報（Wi-Fi/MQTT認証情報）
+m5_stack/secrets.h

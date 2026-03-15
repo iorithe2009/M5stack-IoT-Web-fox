@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS device_events;
+DROP TABLE IF EXISTS telemetry;
+DROP TABLE IF EXISTS device_state;
+DROP TABLE IF EXISTS devices;
